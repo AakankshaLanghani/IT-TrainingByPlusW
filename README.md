@@ -1,6 +1,4 @@
-Here's a refined **GitHub README** without the repository structure:  
 
----
 
 # 📌 **Advanced IT & Japanese Language Program - Assignments**  
 
