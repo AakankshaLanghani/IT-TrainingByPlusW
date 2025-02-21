@@ -48,7 +48,7 @@ This program combines **Advanced IT Skills** with **Japanese Language Fundamenta
 - **Key Concepts**: Function scope, recursion, documentation  
 - **Assignments**: Basic Array Operations, Image Processing, Data Analysis Tools
 
-- ### Class 5: Analyzing Tabular Data with Pandas (February 18, 2025)  
+### Class 5: Analyzing Tabular Data with Pandas (February 18, 2025)  
 - **Linear Algebra in NumPy:** Scaling, rotation, and translation  
 - **NumPy Operations:** Concatenation and stacking in NumPy  
 - **Data Handling:** Import and export data across different formats  
