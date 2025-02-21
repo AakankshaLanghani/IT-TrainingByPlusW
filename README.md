@@ -69,6 +69,5 @@ This repository will be **regularly updated** as the course progresses. New mate
    git clone https://github.com/yourusername/IT-Training-PlusW.git
    ```
 2. **Explore the materials & assignments**  
-3. **Follow the instructions to complete each task**  
 
 Happy Learning! 🎯🚀  
