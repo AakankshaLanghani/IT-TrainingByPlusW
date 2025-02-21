@@ -46,7 +46,18 @@ This program combines **Advanced IT Skills** with **Japanese Language Fundamenta
 - **Introduction to NumPy**: Array creation, comparison with lists  
 - **Array Manipulation & Operations**: Reshaping, slicing, arithmetic operations  
 - **Key Concepts**: Function scope, recursion, documentation  
-- **Assignments**: Basic Array Operations, Image Processing, Data Analysis Tools  
+- **Assignments**: Basic Array Operations, Image Processing, Data Analysis Tools
+
+- ### Class 5: Analyzing Tabular Data with Pandas (February 18, 2025)  
+- **Linear Algebra in NumPy:** Scaling, rotation, and translation  
+- **NumPy Operations:** Concatenation and stacking in NumPy  
+- **Data Handling:** Import and export data across different formats  
+- **Data Inspection & Understanding:** Basics of creating, loading, and exploring DataFrames  
+
+**Assignments:**  
+- Automated File Management System: Organizing and exporting CSV/JSON files  
+- Stock Market Data Collection: Fetching, storing, and analyzing real-time stock data  
+- Web Scraping Project: Extracting and saving book data from an online store using BeautifulSoup
 
 ## 🔄 Continuous Updates  
 This repository will be **regularly updated** as the course progresses. New materials, assignments, and advanced topics will be added after each class. Stay tuned! 🚀  
