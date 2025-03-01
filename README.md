@@ -59,6 +59,17 @@ This program combines **Advanced IT Skills** with **Japanese Language Fundamenta
 - Stock Market Data Collection: Fetching, storing, and analyzing real-time stock data  
 - Web Scraping Project: Extracting and saving book data from an online store using BeautifulSoup
 
+- **Class 6: Visualization with Matplotlib & Seaborn (February 25, 2025)**  
+
+- **Matplotlib Basics**: Introduction to Matplotlib’s plotting library, setting up figures and axes.  
+- **Customization**: Enhance plots using various line styles, markers, and colors for better clarity.  
+- **Informative Visuals**: Techniques to make data visualization more engaging and insightful.  
+- **Scatter Plots**: Visualizing relationships and correlations between variables.  
+- **Seaborn for Statistical Visualization**: Leverage Seaborn to create aesthetically appealing and informative plots.  
+- **Integration with Pandas**: Seamlessly visualize DataFrames for effective data storytelling.  
+
+Would you like any modifications or additions?
+
 ## 🔄 Continuous Updates  
 This repository will be **regularly updated** as the course progresses. New materials, assignments, and advanced topics will be added after each class. Stay tuned! 🚀  
 
