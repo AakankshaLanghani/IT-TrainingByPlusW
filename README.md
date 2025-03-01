@@ -59,7 +59,7 @@ This program combines **Advanced IT Skills** with **Japanese Language Fundamenta
 - Stock Market Data Collection: Fetching, storing, and analyzing real-time stock data  
 - Web Scraping Project: Extracting and saving book data from an online store using BeautifulSoup
 
-- ###  **Class 6: Visualization with Matplotlib & Seaborn *(February 25, 2025)*
+- ### **Class 6: Visualization with Matplotlib & Seaborn *(February 25, 2025)*
 
 - **Matplotlib Basics**: Introduction to Matplotlib’s plotting library, setting up figures and axes.  
 - **Customization**: Enhance plots using various line styles, markers, and colors for better clarity.  
