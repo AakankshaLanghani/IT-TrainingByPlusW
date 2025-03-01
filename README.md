@@ -23,7 +23,7 @@ This program combines **Advanced IT Skills** with **Japanese Language Fundamenta
 - **Business Communication**  
 - **Technical Japanese for IT Professionals**  
 
-## 📅 Class Schedule & Content  
+### 📅 **Class Schedule & Content**  
 
 ### **Class 1: Course Introduction** *(January 21, 2025)*  
 - **Program Overview**: Structure, learning path, assessments  
@@ -46,7 +46,7 @@ This program combines **Advanced IT Skills** with **Japanese Language Fundamenta
 - **Introduction to NumPy**: Array creation, comparison with lists  
 - **Array Manipulation & Operations**: Reshaping, slicing, arithmetic operations  
 - **Key Concepts**: Function scope, recursion, documentation  
-- **Assignments**: Basic Array Operations, Image Processing, Data Analysis Tools
+- **Assignments**: Basic Array Operations, Image Processing, Data Analysis Tools  
 
 ### **Class 5: Analyzing Tabular Data with Pandas** *(February 18, 2025)*  
 - **Linear Algebra in NumPy:** Scaling, rotation, and translation  
@@ -54,13 +54,14 @@ This program combines **Advanced IT Skills** with **Japanese Language Fundamenta
 - **Data Handling:** Import and export data across different formats  
 - **Data Inspection & Understanding:** Basics of creating, loading, and exploring DataFrames  
 
-**Assignments:**  
-- Automated File Management System: Organizing and exporting CSV/JSON files  
-- Stock Market Data Collection: Fetching, storing, and analyzing real-time stock data  
-- Web Scraping Project: Extracting and saving book data from an online store using BeautifulSoup
+**📌 Assignments:**  
+✅ Automated File Management System: Organizing and exporting CSV/JSON files  
+✅ Stock Market Data Collection: Fetching, storing, and analyzing real-time stock data  
+✅ Web Scraping Project: Extracting and saving book data from an online store using BeautifulSoup  
 
-- ### **Class 6: Visualization with Matplotlib & Seaborn *(February 25, 2025)*
+---
 
+### **Class 6: Visualization with Matplotlib & Seaborn** *(February 25, 2025)*  
 - **Matplotlib Basics**: Introduction to Matplotlib’s plotting library, setting up figures and axes.  
 - **Customization**: Enhance plots using various line styles, markers, and colors for better clarity.  
 - **Informative Visuals**: Techniques to make data visualization more engaging and insightful.  
@@ -68,8 +69,22 @@ This program combines **Advanced IT Skills** with **Japanese Language Fundamenta
 - **Seaborn for Statistical Visualization**: Leverage Seaborn to create aesthetically appealing and informative plots.  
 - **Integration with Pandas**: Seamlessly visualize DataFrames for effective data storytelling.  
 
-Would you like any modifications or additions?
+**📌 Assignments:**  
+✅ **Stock Market Trend Analysis (Line Plot)**  
+   - **Concepts Used:** Line plots, figure/axes, legends, markers, colors  
 
+✅ **Customizing Temperature Trends with Line Styles and Markers**  
+   - **Concepts Used:** Line customization, markers, annotations  
+
+✅ **Population Growth Visualization (Scatter Plot)**  
+   - **Concepts Used:** Scatter plot, color mapping, size variations  
+
+✅ **Customer Segmentation with Scatter Plot (Color Categories)**  
+   - **Concepts Used:** Scatter plot, color categories, transparency  
+
+✅ **3D Scatter Plot of Sales Data**  
+   - **Concepts Used:** 3D plotting, scatter plots, colormaps  
+  
 ## 🔄 Continuous Updates  
 This repository will be **regularly updated** as the course progresses. New materials, assignments, and advanced topics will be added after each class. Stay tuned! 🚀  
 
