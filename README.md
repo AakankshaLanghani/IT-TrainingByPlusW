@@ -59,8 +59,6 @@ This program combines **Advanced IT Skills** with **Japanese Language Fundamenta
 ✅ Stock Market Data Collection: Fetching, storing, and analyzing real-time stock data  
 ✅ Web Scraping Project: Extracting and saving book data from an online store using BeautifulSoup  
 
----
-
 ### **Class 6: Visualization with Matplotlib & Seaborn** *(February 25, 2025)*  
 - **Matplotlib Basics**: Introduction to Matplotlib’s plotting library, setting up figures and axes.  
 - **Customization**: Enhance plots using various line styles, markers, and colors for better clarity.  
@@ -70,20 +68,11 @@ This program combines **Advanced IT Skills** with **Japanese Language Fundamenta
 - **Integration with Pandas**: Seamlessly visualize DataFrames for effective data storytelling.  
 
 **📌 Assignments:**  
-✅ **Stock Market Trend Analysis (Line Plot)**  
-   - **Concepts Used:** Line plots, figure/axes, legends, markers, colors  
-
-✅ **Customizing Temperature Trends with Line Styles and Markers**  
-   - **Concepts Used:** Line customization, markers, annotations  
-
-✅ **Population Growth Visualization (Scatter Plot)**  
-   - **Concepts Used:** Scatter plot, color mapping, size variations  
-
-✅ **Customer Segmentation with Scatter Plot (Color Categories)**  
-   - **Concepts Used:** Scatter plot, color categories, transparency  
-
-✅ **3D Scatter Plot of Sales Data**  
-   - **Concepts Used:** 3D plotting, scatter plots, colormaps  
+✅ Stock Market Trend Analysis (Line Plot)
+✅ Customizing Temperature Trends with Line Styles and Markers
+✅ Population Growth Visualization (Scatter Plot)
+✅ Customer Segmentation with Scatter Plot (Color Categories)
+✅ 3D Scatter Plot of Sales Data
   
 ## 🔄 Continuous Updates  
 This repository will be **regularly updated** as the course progresses. New materials, assignments, and advanced topics will be added after each class. Stay tuned! 🚀  
