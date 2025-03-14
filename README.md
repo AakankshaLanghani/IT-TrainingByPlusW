@@ -54,7 +54,27 @@ This program combines **Advanced IT Skills** with **Japanese Language Fundamenta
 - **Data Handling:** Import and export data across different formats  
 - **Data Inspection & Understanding:** Basics of creating, loading, and exploring DataFrames
 
-### **Class 7:
+**📌 Assignments:**  
+✅ Automated File Management System: Organizing and exporting CSV/JSON files  
+✅ Stock Market Data Collection: Fetching, storing, and analyzing real-time stock data  
+✅ Web Scraping Project: Extracting and saving book data from an online store using BeautifulSoup  
+
+### **Class 6: Visualization with Matplotlib & Seaborn** *(February 25, 2025)*  
+- **Matplotlib Basics**: Introduction to Matplotlib’s plotting library, setting up figures and axes.  
+- **Customization**: Enhance plots using various line styles, markers, and colors for better clarity.  
+- **Informative Visuals**: Techniques to make data visualization more engaging and insightful.  
+- **Scatter Plots**: Visualizing relationships and correlations between variables.  
+- **Seaborn for Statistical Visualization**: Leverage Seaborn to create aesthetically appealing and informative plots.  
+- **Integration with Pandas**: Seamlessly visualize DataFrames for effective data storytelling.  
+
+**📌 Assignments:**  
+✅ Stock Market Trend Analysis (Line Plot)
+✅ Customizing Temperature Trends with Line Styles and Markers
+✅ Population Growth Visualization (Scatter Plot)
+✅ Customer Segmentation with Scatter Plot (Color Categories)
+✅ 3D Scatter Plot of Sales Data
+
+### **Class 7:*
 # 🎯 Salary Prediction Web App  
 
 This **Streamlit** web app predicts salaries based on job-related factors using **Linear Regression**.
@@ -84,26 +104,6 @@ streamlit run app.py
 ✅ Enter job details (experience, degree, etc.)  
 ✅ Get predicted salary instantly  
 
-
-**📌 Assignments:**  
-✅ Automated File Management System: Organizing and exporting CSV/JSON files  
-✅ Stock Market Data Collection: Fetching, storing, and analyzing real-time stock data  
-✅ Web Scraping Project: Extracting and saving book data from an online store using BeautifulSoup  
-
-### **Class 6: Visualization with Matplotlib & Seaborn** *(February 25, 2025)*  
-- **Matplotlib Basics**: Introduction to Matplotlib’s plotting library, setting up figures and axes.  
-- **Customization**: Enhance plots using various line styles, markers, and colors for better clarity.  
-- **Informative Visuals**: Techniques to make data visualization more engaging and insightful.  
-- **Scatter Plots**: Visualizing relationships and correlations between variables.  
-- **Seaborn for Statistical Visualization**: Leverage Seaborn to create aesthetically appealing and informative plots.  
-- **Integration with Pandas**: Seamlessly visualize DataFrames for effective data storytelling.  
-
-**📌 Assignments:**  
-✅ Stock Market Trend Analysis (Line Plot)
-✅ Customizing Temperature Trends with Line Styles and Markers
-✅ Population Growth Visualization (Scatter Plot)
-✅ Customer Segmentation with Scatter Plot (Color Categories)
-✅ 3D Scatter Plot of Sales Data
   
 ## 🔄 Continuous Updates  
 This repository will be **regularly updated** as the course progresses. New materials, assignments, and advanced topics will be added after each class. Stay tuned! 🚀  
