@@ -52,7 +52,38 @@ This program combines **Advanced IT Skills** with **Japanese Language Fundamenta
 - **Linear Algebra in NumPy:** Scaling, rotation, and translation  
 - **NumPy Operations:** Concatenation and stacking in NumPy  
 - **Data Handling:** Import and export data across different formats  
-- **Data Inspection & Understanding:** Basics of creating, loading, and exploring DataFrames  
+- **Data Inspection & Understanding:** Basics of creating, loading, and exploring DataFrames
+
+### **Class 7:
+# 🎯 Salary Prediction Web App  
+
+This **Streamlit** web app predicts salaries based on job-related factors using **Linear Regression**.
+
+## 🛠 How It Works  
+
+- **Data Preprocessing:** Cleans and encodes categorical features.  
+- **Model Training:** Uses `LinearRegression` from `scikit-learn`.  
+- **Prediction:** Takes user input and predicts salary.  
+- **Web App:** Built with `Streamlit` for an interactive UI.  
+
+## 🚀 How to Run  
+
+1️⃣ Install dependencies:  
+```bash
+pip install -r requirements.txt
+```
+
+2️⃣ Run the app:  
+```bash
+streamlit run app.py
+```
+
+## 🖥 Features  
+
+✅ Upload dataset (`salary_data.csv`)  
+✅ Enter job details (experience, degree, etc.)  
+✅ Get predicted salary instantly  
+
 
 **📌 Assignments:**  
 ✅ Automated File Management System: Organizing and exporting CSV/JSON files  
