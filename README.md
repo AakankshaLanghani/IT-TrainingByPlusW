@@ -90,13 +90,12 @@ This program combines **Advanced IT Skills** with **Japanese Language Fundamenta
 - **Hands-on Coding**: Creating an interactive UI for real-time predictions  
 
 ## **Class 8: Support Vector Machine (SVM)** *(March 15, 2025)*  
-
 ### 📌 **Optimizing a Linear Model Using Gradient Descent**  
 - Understanding cost functions and gradients  
 - Implementing batch, stochastic, and mini-batch gradient descent  
-- Tuning learning rates for optimal convergence  
+- Tuning learning rates for optimal convergence
 
-### 📌 **Classifying Handwritten Digits with SVM**  
+  ### 📌 **Classifying Handwritten Digits with SVM**  
 - Preprocessing and feature extraction  
 - Training an SVM model with different kernels (linear, RBF)  
 - Evaluating accuracy and improving performance with hyperparameter tuning  
