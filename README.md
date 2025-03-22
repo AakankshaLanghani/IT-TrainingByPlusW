@@ -123,7 +123,7 @@ This program combines **Advanced IT Skills** with **Japanese Language Fundamenta
 - Measuring model performance with confusion matrix & F1-score  
   
 ## 🔄 Continuous Updates  
-This repository will be **regularly updated** as the course progresses. New materials, assignments, and advanced topics will be added after each class. Stay tuned! 🚀  
+This repository will be **regularly updated** as the course progresses. New materials, assignments, and advanced topics will be added after each class.  
 
 ## 📝 How to Get Started  
 
