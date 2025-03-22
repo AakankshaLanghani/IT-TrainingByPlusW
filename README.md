@@ -74,6 +74,40 @@ This program combines **Advanced IT Skills** with **Japanese Language Fundamenta
 ✅ Customer Segmentation with Scatter Plot (Color Categories)
 ✅ 3D Scatter Plot of Sales Data
 
+### **Class 8 : Support Vector Machine** *(March 15, 2025)*  
+
+### 📌 **Optimizing a Linear Model Using Gradient Descent**
+- Understanding cost functions and gradients  
+- Implementing batch, stochastic, and mini-batch gradient descent  
+- Tuning learning rates for optimal convergence  
+
+### 📌 **Classifying Handwritten Digits with SVM**
+- Preprocessing and feature extraction  
+- Training an SVM model with different kernels (linear, RBF)  
+- Evaluating accuracy and improving performance with hyperparameter tuning  
+
+## **Assignments**
+
+### 📊 **Sales Forecasting for a Retail Store**
+- Data preprocessing and feature engineering  
+- Linear regression for forecasting  
+- Evaluating model performance with MSE & R² score  
+
+### ✉️ **Email Spam Detection using SVM**
+- Data cleaning & preprocessing (removing stopwords, stemming)  
+- TF-IDF vectorization for text feature extraction  
+- Training an SVM model for classification  
+
+### 📉 **Customer Churn Prediction using SVM**
+- Feature encoding for categorical variables  
+- Scaling numerical data using StandardScaler  
+- Evaluating SVM performance using accuracy and precision-recall metrics  
+
+### 💳 **Fraud Detection in Credit Card Transactions**
+- Oversampling with SMOTE to handle class imbalance  
+- Training an SVM model with RBF kernel  
+- Measuring model performance with confusion matrix & F1-score  
+
   
 ## 🔄 Continuous Updates  
 This repository will be **regularly updated** as the course progresses. New materials, assignments, and advanced topics will be added after each class. Stay tuned! 🚀  
